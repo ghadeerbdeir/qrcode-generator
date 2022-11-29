@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    background-color: #f0f0f0;
+    height: 500px;
+    width: 500px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, 50%);
+    box-shadow: 16px 16px 10px #d7d7d7;
+    border-radius: 20px;
+}
